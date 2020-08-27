@@ -24,7 +24,7 @@
     "uuid": "^8.0.0"
   },
   "dependencies": {
-    "@google-cloud/firestore": "^3.0.0",
+    "@google-cloud/firestore": "^4.0.0",
     "escape-html": "^1.0.3",
     "node-fetch": "^2.3.0"
   }
