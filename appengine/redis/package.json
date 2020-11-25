@@ -13,7 +13,7 @@
     "test": "mocha test/*.test.js --timeout=30000 --exit"
   },
   "dependencies": {
-    "nconf": "^0.10.0",
+    "nconf": "^0.11.0",
     "redis": "^3.0.0"
   },
   "devDependencies": {
