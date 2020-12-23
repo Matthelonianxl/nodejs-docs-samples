@@ -15,7 +15,7 @@
     "test": "mocha test/*.test.js"
   },
   "dependencies": {
-    "axios": "^0.19.2",
+    "axios": "^0.21.1",
     "eslint-plugin-node": "^11.1.0",
     "mocha": "^7.1.1"
   },
