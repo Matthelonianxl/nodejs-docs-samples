@@ -21,7 +21,7 @@
     "body-parser": "^1.18.3",
     "express": "^4.16.4",
     "jade": "^1.11.0",
-    "node-mailjet": "^3.3.1"
+    "node-mailjet": "^4.0.0"
   },
   "devDependencies": {
     "mocha": "^7.0.0",
